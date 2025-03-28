@@ -5,7 +5,7 @@ const AUTH_STORAGE_KEY = 'auth_state';
 
 // 硬编码的认证凭据
 const VALID_USERNAME = 'adminayi';
-const VALID_PASSWORD = 'ayi888888';
+const VALID_PASSWORD = 'peipei888888';
 
 // 获取认证状态
 export const getAuthState = (): AuthState => {
